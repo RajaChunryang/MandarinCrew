@@ -11,5 +11,5 @@ RMBG_API = os.getenv("RMBG_API", "b5ZnjZ2nUUpbdEHfcrWdjWbC")
 AI_GOOGLE_API = os.getenv("AI_GOOGLE_API", "AIzaSyAM4A7L0Qj3loDZDupt0X74PDne6Tx2YLA")
 MONGO_URL = os.getenv(
     "MONGO_URL",
-    "mongodb+srv://MandarinCrew::Cinnoi30a@cluster0.muxhxgw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "mongodb+srv://MandarinCrew:mandarinloco@cluster0.muxhxgw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
 )
