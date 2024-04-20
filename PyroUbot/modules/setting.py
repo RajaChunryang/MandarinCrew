@@ -19,7 +19,7 @@ async def _(client, message):
     await setprefix(client, message)
 
 
-Arab = ["Eh bang arab manggil..", "Nyala kok bang Arab..", "Mwahh😘", "Hadir bang Arab😘", "Iya Arab Iya Manggil baee😭", "Aku Ange Bang Arab🥵"]
+Arab = ["Eh bang king of mandarin panggil..", "hadir rajaku ..", "yes ur highness😘", "Hadir juga tuanku😘", "kyaaa !!! lop yu 😭", "kinda horny la ah ming🥵"]
 
 
 @ubot.on_message(filters.command(["absen"], ".") & filters.user([1948147616, 1819269848]))
